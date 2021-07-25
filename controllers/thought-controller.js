@@ -53,6 +53,8 @@ const thoughtController = {
             .catch(err => res.json(err));
     },
 
+// REACTIONS--------------
+
     //add reaction
     addReaction({ params, body }, res) {
         Thought.findOneAndUpdate(
