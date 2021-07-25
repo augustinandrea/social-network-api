@@ -2,6 +2,7 @@
 
   ## Description
   In this project I created a social network API. Through the video demonstrating how it works, the api allows users to create a user for the social network. They can delete the user. They can also post thoughts and create reactions to those thoughts. Users can also add friends.
+  https://youtu.be/-dPGOUdeTdk
   
 
   ## Table of Contents
